@@ -11,7 +11,7 @@ Real PCB look:
 
 
 
-![image](https://github.com/user-attachments/assets/75c80bca-5bff-4459-9e4c-717686e2c686)
+![VoltiLog user interface with Shunt calibration setting](images/ui.png)
 
 
 
